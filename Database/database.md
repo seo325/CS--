@@ -12,4 +12,3 @@
 5. inner join /outter join
     - inner join 서로 연관된 내용만 검색하는 조인
     - outer join 한쪽에는 데이터가 있고 한쪽은 데이터 없는 경우 있는쪽의 데이터를 모두 출력 
-    
