@@ -6,7 +6,7 @@
 3. mvc 
     - model  어플리케인션이 무엇을 할 것인 지 내부 비즈니스 로직을 처리하기 위한 역할 
     - view 클라이언트에게 무엇을 화면으로 보여줌
-    - controller 어ㄸㅓㅎ게 처리할 것인지 
+    - controller 어떻게 처리할 것인지 
 
 4. restful-api  
     - url을 통해 자원을 명시하고 http method 를 통해 해당 자원에 대한  crud 적용
